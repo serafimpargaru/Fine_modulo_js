@@ -1,0 +1,15 @@
+.logo-custom {
+  width: 40px;
+}
+
+.product_card {
+  height: 50rem;
+}
+
+.product_card:hover {
+    transform: scale(1.02);
+}
+
+.modal-custom {
+  backdrop-filter: blur(5px);
+}
